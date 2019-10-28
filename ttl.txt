@@ -1,0 +1,20 @@
+petugas
+- id_petugas varchar 12
+- nama_petugas varchar 50
+- tanggal lahir date
+- alamat rumah text
+- no_hp int 14
+
+warga 
+- no_anggota int 5
+- nama_kepala varchar 50 
+- alamat text
+- no_hp int 14
+
+transaksi 
+- id_petugas varchar 12 
+- no_anggota  int 5
+- nama_kepala varhcar 50
+- tgl_bayar date
+- nominal int 15
+- catatan text
