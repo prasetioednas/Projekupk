@@ -90,6 +90,7 @@
 	<script src="<?= base_url('assets/vendor/countdowntime/countdowntime.js');?>"></script>
 <!--===============================================================================================-->
 	<script src="<?= base_url('assets/js/main.js');?>"></script>
+	<script src="<?= base_url()?>/assets/js/sweetalert2.all.min.js"></script>
 
 </body>
 </html>
